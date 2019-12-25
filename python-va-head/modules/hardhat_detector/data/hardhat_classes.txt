@@ -1,0 +1,10 @@
+coat
+hardhat
+jacket
+blazer
+shirt
+bright safety suite
+roba
+labcoat
+t-shirt
+reflective vest
